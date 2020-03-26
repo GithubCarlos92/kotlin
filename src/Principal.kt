@@ -91,39 +91,4 @@ fun main( parametro : Array<String>){
     println("la suma es $sumat")
     println("el promedio es $promedio")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
